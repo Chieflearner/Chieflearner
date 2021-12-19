@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chieflearner
-- 👀 I’m interested in web development and ccyber security 
+- 👀 I’m interested in web development and cyber security 
 - 🌱 I’m currently learning ...webdevelopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...erikchidiak01@gmail.com
